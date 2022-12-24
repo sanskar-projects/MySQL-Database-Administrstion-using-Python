@@ -98,7 +98,7 @@ def dropcolumn():
     except:
         print("Please enter an existing column and existing table")
 
-#1:Rename a column in a table
+#11:Rename a column in a table
 def renamecolumn():
     print("Enter table name to be altered")
     x=input()
