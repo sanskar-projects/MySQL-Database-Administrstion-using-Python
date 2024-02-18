@@ -1,40 +1,5 @@
-<! DOCTYPE html>
-<html>
-<head>
+MySQL Database Administrstion using Python
 
-<link rel="stylesheet" href="pysda.css">
-
-<meta name="viewport" content="width=device-width,initial-scale=1.0">
-
-</head>
-
-
-<body>
-
-<p class="home">
-<a href="index.html">
-go to home
-</a>
-</p>
-   <br>
-    <br>
-    <br>
-    <br>
-    <br>
-<p>MySQL Database Administrstion using Python</p>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<hr>
-
-<p>
-Mission of the project
-</p>
-
-<p>
 It's a simple python-SQL program to perform basic DDL and DML commands on a mysql database minimising the use of structured query language (SQL) for the user,
 <br>
 the program is almost fully divided into independent functions hence the program can also be used as a module,
@@ -48,11 +13,6 @@ editing of host name and user name may also be required in case you are not usin
 you can refer the documentation for the last 2 points,
 <br>
 NOTE : this program may be prone to SQL injection techniques hence careful handling is advised.
-</p>
-
-<hr>
-<hr>
-
 <p>
 Add database name and password in the sourcecode
 </p>
