@@ -18,7 +18,7 @@ Add database name and password in the sourcecode
 </p>
 
 <hr>
-<img src="1.png" id="a">
+<img src="output/1.png" id="a">
 <hr>
 <p id="r">
 Run
@@ -35,7 +35,7 @@ Run
 
 
 <hr>
-<img src="2.png">
+<img src="output/2.png">
 <hr>
 <p>
 #1:CHECKING ESTABLISHMENT OF CONNECTION TO THE DATABASE
@@ -44,7 +44,7 @@ connect()
 </p>
 
 <hr>
-<img src="3.png" id="1">
+<img src="output/3.png" id="1">
 
 <hr>
 <p>
@@ -53,7 +53,7 @@ connect()
 create()
 </p>
 <hr>
-<img src="4.png" id="2">
+<img src="output/4.png" id="2">
 <hr>
 <p>
 #3:DROP A DATABASE
@@ -61,7 +61,7 @@ create()
 drop()
 </p>
 <hr>
-<img src="5.png" id="3">
+<img src="output/5.png" id="3">
 <hr>
 <p>
 #4:SHOW DATABASES
@@ -69,7 +69,7 @@ drop()
 show()
 </p>
 <hr>
-<img src="6.png" id="4">
+<img src="output/6.png" id="4">
 <hr>
 <p>
 #5:Create a table
@@ -77,7 +77,7 @@ show()
 createtable()
 </p>
 <hr>
-<img src="7.png" id="5">
+<img src="output/7.png" id="5">
 <hr>
 <p>
 #7:Show tables
@@ -85,7 +85,7 @@ createtable()
 showtables()
 </p>
 <hr>
-<img src="8.png" id="7">
+<img src="output/8.png" id="7">
 <hr>
 <p>
 #8:Show structure of a table
@@ -93,7 +93,7 @@ showtables()
 desc()
 </p>
 <hr>
-<img src="9.png" id="8">
+<img src="output/9.png" id="8">
 <hr>
 <p>
 #9:Add a column in a table
@@ -101,7 +101,7 @@ desc()
 addcolumn()
 </p>
 <hr>
-<img src="a.png" id="9">
+<img src="output/a.png" id="9">
 <hr>
 <p>
 #10:Drop a column in a table
@@ -110,7 +110,7 @@ dropcolumn()
 
 </p>
 <hr>
-<img src="b.png" id="10">
+<img src="output/b.png" id="10">
 <hr>
 <p>
 #11:Rename a column in a table
@@ -118,7 +118,7 @@ dropcolumn()
 renamecolumn()
 </p>
 <hr>
-<img src="c.png" id="11">
+<img src="output/c.png" id="11">
 <hr>
 <p>
 #12:Change type of a column in a table
@@ -126,7 +126,7 @@ renamecolumn()
 retypecolumn()
 </p>
 <hr>
-<img src="d.png" id="12">
+<img src="output/d.png" id="12">
 <hr>
 <p>
 #13:Insert a record in a table
@@ -134,7 +134,7 @@ retypecolumn()
 insert()
 </p>
 <hr>
-<img src="e.png" id="13">
+<img src="output/e.png" id="13">
 <hr>
 <p>
 #14:Delete a record in a table
@@ -142,7 +142,7 @@ insert()
 delete()
 </p>
 <hr>
-<img src="f.png" id="14">
+<img src="output/f.png" id="14">
 <hr>
 <p>
 #15:Clear a table
@@ -150,7 +150,7 @@ delete()
 clear()
 </p>
 <hr>
-<img src="g.png" id="15">
+<img src="output/g.png" id="15">
 <hr>
 <p>
 #16:Show a record in a table
@@ -158,7 +158,7 @@ clear()
 select()
 </p>
 <hr>
-<img src="h.png" id="16">
+<img src="output/h.png" id="16">
 <hr>
 <p>
 #17:Show all records in a table
@@ -167,7 +167,7 @@ selectstar()
 
 </p>
 <hr>
-<img src="i.png" id="17">
+<img src="output/i.png" id="17">
 
 <hr>
 <p>
@@ -176,7 +176,7 @@ selectstar()
 update()
 </p>
 <hr>
-<img src="j.png" id="18">
+<img src="output/j.png" id="18">
 
 <hr>
 <p>
@@ -185,13 +185,13 @@ update()
 droptable()
 </p>
 <hr>
-<img src="k.png" id="6">
+<img src="output/k.png" id="6">
 
 <hr>
 <p>
 Terminate
 </p>
 <hr>
-<img src="l.png" id="t">
+<img src="output/l.png" id="t">
 
 </body>
